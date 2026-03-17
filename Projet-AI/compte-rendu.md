@@ -4,7 +4,9 @@ Voici un **compte rendu complet et structuré** sur la **Classification des Déf
 
 # 📋 COMPTE RENDU PROFESSIONNEL
 ## **Contrôle Interne & Gouvernance**
+### **KALKOULI Mounia, Etudiante en 4ème année à l'ENCG Settat**
 ### **Classification des Défaillances de Contrôle Interne par Type**
+### **J’ai choisi ce sujet car le contrôle interne et la gouvernance sont des piliers de la performance et de la transparence des entreprises, notamment dans un environnement réglementé par des cadres et des lois.**
 > *Référentiels : SOX Section 404 | COSO 2013 | PCAOB | OECCA Maroc*
 
 ---
